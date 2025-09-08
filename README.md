@@ -167,7 +167,7 @@ My focus is to create **recruiter-ready**, real-world projects that blend **clea
 
 - 📫 Email: <a href="mailto:{quadrilateef099@gmail.com}">quadrilateef099@gmail.com</a>  
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/quadrilateefoluwatobilobaquadri/">Oluwatobiloba Quadri</a>  
-- 🌐 Portfolio: <a href="{theoluwatobiloba.github.io}">{theoluwatobiloba.github.io}</a>
+- 🌐 Portfolio: <a href="theoluwatobiloba.github.io">theoluwatobiloba.github.io</a>
 <!-- - 📝 Blog: <a href="{your-blog-or-Hashnode}">{Blog Name}</a>  -->
 
 <!-- NEXT UP / ROADMAP -->
