@@ -19,7 +19,7 @@
   <a href="https://github.com/TheOluwatobiloba?tab=repositories">
     <img alt="Repos" src="https://img.shields.io/badge/Repositories-{count_them}-blue?style=for-the-badge">
   </a>
-  <a href="{https://www.linkedin.com/in/quadrilateefoluwatobilobaquadri/}">
+  <a href="https://www.linkedin.com/in/quadrilateefoluwatobilobaquadri">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:quadrilateef099@gmail.com">
