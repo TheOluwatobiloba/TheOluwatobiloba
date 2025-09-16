@@ -25,7 +25,7 @@
   <a href="mailto:quadrilateef099@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-Contact%20Me-success?style=for-the-badge&logo=gmail">
   </a>
-  <a href="theoluwatobiloba.github.io">
+  <a href="https:theoluwatobiloba.github.io">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel">
   </a>
 </div>
