@@ -13,19 +13,19 @@
   </p>
 
   <!-- Quick badges (replace {username}) -->
-  <a href="https://github.com/{TheOluwatobiloba}">
+  <a href="https://github.com/TheOluwatobiloba">
     <img alt="Followers" src="https://img.shields.io/github/followers/{TheOluwatobiloba}?style=for-the-badge">
   </a>
-  <a href="https://github.com/{TheOluwatobiloba}?tab=repositories">
+  <a href="https://github.com/TheOluwatobiloba?tab=repositories">
     <img alt="Repos" src="https://img.shields.io/badge/Repositories-{count_them}-blue?style=for-the-badge">
   </a>
   <a href="{https://www.linkedin.com/in/quadrilateefoluwatobilobaquadri/}">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:{quadrilateef099@gmail.com}">
+  <a href="mailto:quadrilateef099@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-Contact%20Me-success?style=for-the-badge&logo=gmail">
   </a>
-  <a href="{theoluwatobiloba.github.io}">
+  <a href="theoluwatobiloba.github.io">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel">
   </a>
 </div>
